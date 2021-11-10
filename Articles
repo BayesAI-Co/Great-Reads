@@ -1,0 +1,32 @@
+This file is our attempt to classify the important papers to our research. It is a on-going document, kindly comment for any good reads that you want to add to our collection.
+
+
+Multi-Agent Systems (General)
+Sycara, K.P., 1998. Multiagent systems. AI magazine, 19(2), pp.79-79.
+Ferber, J. and Gutknecht, O., 1998, July. A meta-model for the analysis and design of organizations in multi-agent systems. In Proceedings international conference on multi agent systems (Cat. No. 98EX160) (pp. 128-135). IEEE.
+Van der Hoek, W. and Wooldridge, M., 2008. Multi-agent systems. Foundations of Artificial Intelligence, 3, pp.887-928.
+
+Heterogenous MAS (Game/Trust)
+Ramchurn, S.D., Huynh, D. and Jennings, N.R., 2004. Trust in multi-agent systems. The knowledge engineering review, 19(1), pp.1-25.
+
+Homogeneous MAS (Cooperation and Etc)
+Doran, J.E., Franklin, S.R.J.N., Jennings, N.R. and Norman, T.J., 1997. On cooperation in multi-agent systems. The Knowledge Engineering Review, 12(3), pp.309-314.
+Olfati-Saber, R., Fax, J.A. and Murray, R.M., 2007. Consensus and cooperation in networked multi-agent systems. Proceedings of the IEEE, 95(1), pp.215-233.
+
+Homogeneous MAS - Swarm 
+Atınç, G.M., Stipanović, D.M. and Voulgaris, P.G., 2020. A swarm-based approach to dynamic coverage control of multi-agent systems. Automatica, 112, p.108637.
+Ilie, S. and Bădică, C., 2013. Multi-agent distributed framework for swarm intelligence. Procedia Computer Science, 18, pp.611-620.
+Mnasri, S., Nasri, N., Van den Bossche, A. and Val, T., 2019. A new multi-agent particle swarm algorithm based on birds accents for the 3D indoor deployment problem. ISA transactions, 91, pp.262-280.
+Shu, D., Huang, Z., Li, J. and Zou, X., 2016. Application of multi-agent particle swarm algorithm in distribution network reconfiguration. Chinese Journal of Electronics, 25(6), pp.1179-1185.
+
+Application (Robotics - general)
+Ranjbar-Sahraei, B., Shabaninia, F., Nemati, A. and Stan, S.D., 2012. A novel robust decentralized adaptive fuzzy control for swarm formation of multiagent systems. IEEE Transactions on Industrial Electronics, 59(8), pp.3124-3134.
+Skobelev, P., Budaev, D., Gusev, N. and Voschuk, G., 2018, June. Designing multi-agent swarm of uav for precise agriculture. In International Conference on Practical Applications of Agents and Multi-Agent Systems (pp. 47-59). Springer, Cham.
+
+Other Purpose
+Scheduling
+Skobelev, P.O., Simonova, E.V., Zhilyaev, A.A. and Travin, V.S., 2017. Application of multi-agent technology in the scheduling system of swarm of earth remote sensing satellites. Procedia Computer Science, 103, pp.396-402.
+
+Development & Simulation 
+DeLoach, S.A., Wood, M.F. and Sparkman, C.H., 2001. Multiagent systems engineering. International Journal of Software Engineering and Knowledge Engineering, 11(03), pp.231-258.
+Luke, S., Cioffi-Revilla, C., Panait, L., Sullivan, K. and Balan, G., 2005. Mason: A multiagent simulation environment. Simulation, 81(7), pp.517-527.
